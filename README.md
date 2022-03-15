@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jay Pathak
-- I am a Software Engineer at CognitiveScale.
+- I am a Software Engineer.
 - 👀 I’m interested in Solving problems that serves customers at scale.
 - 🌱 I’m currently learning Cloud native based development and Software Engineering practices.
 - 📫 How to reach me: pathak1515@gmail.com
